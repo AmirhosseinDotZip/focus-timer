@@ -33,7 +33,7 @@ pip install PyQt6 pystray Pillow pywin32
 Launch the main overlay loop:
 
 ```bash
-python overlay_timer.py
+python timer.py
 ```
 
 ---
