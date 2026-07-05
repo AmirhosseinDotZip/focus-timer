@@ -1,0 +1,28 @@
+{
+    "timer_minutes": 15,
+    "position": "top_left",
+    "monitor_indexes": [
+        0
+    ],
+    "opacity": 0.7,
+    "speed_multiplier": 1.0,
+    "active_theme": "Cyberpunk",
+    "themes": {
+        "Cyberpunk": {
+            "active": "#00FF66",
+            "overtime": "#FF3333",
+            "paused": "#FFA500"
+        },
+        "Deep Purple": {
+            "active": "#D8BFD8",
+            "overtime": "#FF00FF",
+            "paused": "#8A2BE2"
+        },
+        "Sunset Gold": {
+            "active": "Gold",
+            "overtime": "Tomato",
+            "paused": "DarkOrange"
+        }
+    },
+    "monitor_index": 0
+}
